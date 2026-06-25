@@ -16,7 +16,7 @@ const guideContent = {
                 "content": "",
                 "subsections": [
                     {
-                        "title": "1.1.2. Aescripts Manager.",
+                        "title": "1.1.2. Using aescripts Manager.",
                         "content": "The easiest way to install the JustScrollit script is by using the aescripts manager app. https://aescripts.com/learn/post/aescripts-aeplugins-manager-app\n\nIt can install, license and update all your tools in one click!"
                     },
                     {
